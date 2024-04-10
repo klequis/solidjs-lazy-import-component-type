@@ -1,4 +1,4 @@
-**import
+Maybe this is more an issue with my understanding of TypeScript than Solid but I'm not understanding how to type lazy loaded components.
 
 ```jsx
 function NotFound1(): JSX.Element {
